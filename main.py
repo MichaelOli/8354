@@ -4,7 +4,7 @@ import groq
 
 
 # Defina sua chave da API
-client = groq.Client(api_key="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")  
+client = groq.Client(api_key="sua-chave-da-api")  
 
 # Título da aplicação
 st.title("Análise de Dados da Planilha")
